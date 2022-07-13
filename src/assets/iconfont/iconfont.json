@@ -1,0 +1,37 @@
+{
+  "id": "3491401",
+  "name": "zf_icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2076358",
+      "name": "返回箭头",
+      "font_class": "fanhuijiantou",
+      "unicode": "e8b5",
+      "unicode_decimal": 59573
+    },
+    {
+      "icon_id": "629357",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "3762495",
+      "name": "定位",
+      "font_class": "dingwei",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "1136125",
+      "name": "下拉按钮",
+      "font_class": "xialaanniu",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    }
+  ]
+}
